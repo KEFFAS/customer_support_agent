@@ -1,7 +1,7 @@
 # Customer Support Assistant
 
 ## Overview
-The **Customer Support Assistant** is a chatbot designed for the **Keffa School of Government (KSG)**.  
+The **Customer Support Assistant** is a chatbot designed for the **Kea School of Government (KSG)**.  
 It classifies customer queries, analyzes sentiment, and provides relevant responses.  
 The system is built using **Gradio** and **LangGraph**, and it leverages the **OpenAI API** to generate intelligent replies.  
 If a query carries negative sentiment, the assistant escalates it to a human agent for further handling.
