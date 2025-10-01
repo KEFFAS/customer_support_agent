@@ -87,7 +87,7 @@ If a query carries negative sentiment, the assistant escalates it to a human age
      
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Spaces-blue)](https://huggingface.co/spaces/Keffas/customer_support_agent)  
-👉 **[Live Demo Here](https://huggingface.co/spaces/Keffas/customer_support_agent)**  
+👉 **[Live Demo Here](https://huggingface.co/spaces/Keffas/customer-support-agent)**  
 
 ---
 
