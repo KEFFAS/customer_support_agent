@@ -7,7 +7,8 @@ The system is built using **Gradio** and **LangGraph**, and it leverages the **O
 If a query carries negative sentiment, the assistant escalates it to a human agent for further handling.
 
 ---
-
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Spaces-blue)](https://huggingface.co/spaces/Keffas/customer_support_agent)  
+👉 **[Live Demo Here](https://huggingface.co/spaces/Keffas/customer-support-agent)**  
 ## Features
 - **Automatic Categorization** – Classifies queries into **Admissions**, **Training**, **Certificates**, or **General** categories.  
 - **Sentiment Analysis** – Detects whether a query is **Positive**, **Neutral**, or **Negative**.  
@@ -86,8 +87,7 @@ If a query carries negative sentiment, the assistant escalates it to a human age
 
      
 
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Spaces-blue)](https://huggingface.co/spaces/Keffas/customer_support_agent)  
-👉 **[Live Demo Here](https://huggingface.co/spaces/Keffas/customer-support-agent)**  
+
 
 ---
 
